@@ -1,0 +1,37 @@
+/* introdução */
+.intro.sobre {
+  padding-top: 30px;
+  height: 160px;
+  background: url("../img/bg-portfolio.jpg") no-repeat center;
+  background-size: cover;
+}
+
+.intro.sobre h1 {
+  font-size: 36px;
+}
+
+/* Contexto */
+.contexto {
+  padding-top: 60px;
+}
+.contexto .quote-externo {
+  padding: 30px 0;
+  max-width: 450px;
+}
+
+.contexto .quote-externo p {
+  font-size: 1.125em;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  line-height: 25px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.contexto .quote-externo cite {
+  font-size: 1.125em;
+  font-weight: bold;
+  letter-spacing: 0;
+  text-transform: capitalize;
+  color: #000;
+  float: right;
+}
