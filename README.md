@@ -1,8 +1,8 @@
 <h1 align="center">
-<a href="https://github.com/Anderson-S-M3/Origamid_Projetos">:link: Origamid Projetos :link:</a>
+<a href="https://github.com/Anderson-S-M3/Origamid_Projetos">:wolf:Origamid Projetos:wolf:</a>
 </h1>
 
-<p align="center">Esse repositorio foi criado para armazenar os projetos propostos pela <a href="https://www.origamid.com/">:link:Origamid:link:</a>.</p>
+<p align="center">Esse repositorio foi criado para armazenar os projetos propostos pela <a href="https://www.origamid.com/">:link:Origamid</a>.</p>
 
 
 ## 📝 Licença
