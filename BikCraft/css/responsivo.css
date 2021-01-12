@@ -1,0 +1,94 @@
+@media only screen and (min-width: 788px) and (max-width: 979px) {
+}
+
+@media only screen and (max-width: 787px) {
+  /* Estilo geral */
+  .ativo {
+    color: #fff !important;
+    border: 4px solid #fff !important;
+  }
+
+  /* Nav-bar */
+  .header {
+    position: relative;
+    text-align: center;
+  }
+
+  .header img {
+    margin: 0 auto;
+  }
+
+  .nav-bar {
+    text-align: center;
+  }
+
+  .nav-bar ul li {
+    margin-left: 5px;
+    margin-top: 10px;
+  }
+
+  .nav-bar ul li a {
+    border: 4px solid #000;
+    width: 140px;
+    display: block;
+  }
+
+  .nav-bar ul li a:hover {
+    color: #fff;
+    border-color: #fff;
+  }
+
+  /* Introducao */
+  .intro {
+    margin-top: 0;
+  }
+
+  .intro h1 {
+    font-size: 2.2em;
+  }
+
+  /* Produtos */
+  .produtos_lista li {
+    margin-bottom: 40px;
+  }
+
+  .produtos_lista li:last-child {
+    margin-bottom: 0;
+  }
+  /*  Qualidade */
+  .qualidade {
+    background: none;
+  }
+
+  /* PRODUTOS */
+  /* Contexto */
+  .mob {
+    padding-top: 40px;
+  }
+
+  .mob h2 {
+    width: 0;
+    top: -110px;
+    left: 80px;
+    margin-bottom: -93px;
+  }
+
+  .mob .protudos-logo {
+    padding: 0;
+    margin-bottom: 30px;
+  }
+
+  /* ORÇAMENTO */
+  .orcamento,
+  .contato {
+    text-align: center;
+  }
+
+  .form {
+    padding-right: 0;
+  }
+
+  .form button {
+    margin-bottom: 20px;
+  }
+}
