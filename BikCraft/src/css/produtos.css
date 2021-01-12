@@ -7,10 +7,10 @@ h3 {
 }
 
 /* introdução */
-.intro.sobre {
+.intro.produtos {
   padding-top: 30px;
   height: 160px;
-  background: url("../img/bg-contato.jpg") no-repeat center;
+  background: url("../img/bg-produtos.jpg") no-repeat center;
   background-size: cover;
 }
 
@@ -19,11 +19,11 @@ h3 {
 }
 
 /* Contexto */
-.contexto {
+.container.contexto.mob {
   padding-top: 60px;
 }
 
-.contexto h2 {
+.container.contexto.mob h2 {
   color: #fff;
   font-size: 1.75em;
   font-weight: bold;
@@ -34,8 +34,8 @@ h3 {
   left: 250px;
 }
 
-.contexto h2::after,
-.contexto h2::before {
+.container.contexto.mob h2::after,
+.container.contexto.mob h2::before {
   content: "";
   display: block;
   width: 60px;
@@ -44,24 +44,41 @@ h3 {
   margin: 10px 40px;
 }
 
-.contexto .protudos-logo {
+ .produtos-logo {
   text-align: center;
   margin: auto 0;
   padding: 68px 0;
   background-color: #000;
 }
 
-.contato {
+.contexto .produtos-logo img, .contexto .mob img {
+  margin: 0;
+  padding-top: 0;
+}
+
+.produtos.orcamento {
   padding: 40px 0;
   width: 100%;
+  background-color: #000;
+  color: #fff;
+}
+
+.produtos.orcamento h2 {
+  color: #fec63e;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 0.1em;
+  padding-bottom: 40px;
+}
+
+.produtos.orcamento h2:after {
+  background-color: #fec63e;
 }
 
 .form {
   padding-right: 60px;
-}
-
-.form .btn:hover {
-  color: #000;
 }
 
 .form label {
@@ -78,6 +95,7 @@ h3 {
   width: 100%;
   border: 4px solid #fec63e;
   background: none;
+  color: #fff;
   padding: 7px 10px;
   margin-bottom: 10px;
   outline: none;
@@ -96,35 +114,30 @@ h3 {
   padding: 10px 40px;
 }
 
-.dados h3 {
+.produtos.dados h3 {
   font-size: 1.125em;
   color: #fec63e;
   margin-bottom: 10px;
 }
 
-.dados span {
-  font-family: Georgia, "Times New Roman", Times, serif;
-  font-size: 1em;
+.produtos.dados span {
+  font-size: 0.9em;
   display: block;
   margin-bottom: 10px;
 }
 
-.dados span:nth-child(odd) {
-  margin-bottom: 20px;
+.espec h3 {
+  font-size: 1.125em;
+  color: #fec63e;
+  margin-top: 30px;
 }
 
-.dados ul li {
-  text-align: center;
-  display: inline-block;
-  border: 4px solid #fec63e;
-  padding: 10px;
-  margin-left: 20px;
+.espec ul li {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 14px;
+  padding: 10px 15px;
 }
 
-.dados ul li:hover {
-  border-color: #000;
-}
-
-.mapa img {
-  margin-bottom: 40px;
+.espec ul li:nth-child(odd) {
+  background: #1d1d1d;
 }
