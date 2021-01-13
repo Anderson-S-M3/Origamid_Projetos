@@ -4,6 +4,12 @@
 
 <p align="center">Esse repositorio foi criado para armazenar os projetos propostos pela <a href="https://www.origamid.com/">:link:Origamid</a>.</p>
 
+<h3>Projeto BikCraft</h3>
+
+<p><b>Sobre:</b> Loja de bicicletas personalizadas, com layout responsivo<p>
+
+<img src="https://user-images.githubusercontent.com/65872811/104389019-4b409880-5519-11eb-8b03-b4757f702c05.png">
+
 
 ## 📝 Licença
 ---
