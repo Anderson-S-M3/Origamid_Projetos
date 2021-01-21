@@ -6,10 +6,20 @@
 
 <h3>Projeto BikCraft</h3>
 
-<p><b>Sobre:</b> Loja de bicicletas personalizadas, com layout responsivo<p>
+<p><b>Sobre:</b> Loja de bicicletas personalizadas (layout responsivo)<p>
 
 <img src="https://user-images.githubusercontent.com/65872811/104389019-4b409880-5519-11eb-8b03-b4757f702c05.png">
 
+<br>
+<br>
+
+<h3>Projeto FlexBlog</h3>
+
+<p><b>Sobre:</b> Blog Para testar Display flex (layout responsivo)<p>
+
+<img src="https://user-images.githubusercontent.com/65872811/105406521-4cee1880-5c0b-11eb-8908-854ac49cfee5.png">
+
+<br>
 
 ## 📝 Licença
 ---
