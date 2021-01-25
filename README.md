@@ -15,9 +15,18 @@
 
 <h3>Projeto FlexBlog</h3>
 
-<p><b>Sobre:</b> Blog Para testar Display flex (layout responsivo)<p>
+<p><b>Sobre:</b> Blog para testar Display flex (layout responsivo)<p>
 
 <img src="https://user-images.githubusercontent.com/65872811/105406521-4cee1880-5c0b-11eb-8908-854ac49cfee5.png">
+
+<br>
+<br>
+
+<h3>Projeto WildBeast</h3>
+
+<p><b>Sobre:</b> Landing Page para testar Grid Layout (layout responsivo)<p>
+
+<img src="https://user-images.githubusercontent.com/65872811/105760446-90f55c00-5f30-11eb-8447-e39c0059958d.png">
 
 <br>
 
